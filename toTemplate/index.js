@@ -68,13 +68,13 @@ A template to make smart contract
 to make a project out of it, execute the following
     
 \`\`\`
-npx init-from wighawag/smart-contract-template <your-project-folder>
+npx init-from wighawag/smart-contracts <your-project-folder>
 \`\`\`
     
 or if you want the name to be different than the folder or the contract name to be different too
     
 \`\`\`
-npx init-from wighawag/dsmart-contract-template <your-project-folder> --name "<Your Project Name>" --contractName "<your Contract Name>"
+npx init-from wighawag/smart-contracts <your-project-folder> --name "<Your Project Name>" --contractName "<your Contract Name>"
 \`\`\`
 <!-- {{%}}  -->`
     );
